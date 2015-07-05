@@ -2,4 +2,5 @@
 !*/
 !.gitignore
 !*.hs
+!*.elm
 !*.md
